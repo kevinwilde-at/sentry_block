@@ -4,10 +4,14 @@
     },
     "dependencies": {
         "@airtable/blocks": "1.11.1",
+        "@sentry/browser": "^6.19.6",
+        "@sentry/tracing": "^6.19.6",
         "react": "^16.13.0",
         "react-dom": "^16.13.0"
     },
     "devDependencies": {
+        "@airtable/blocks-webpack-bundler": "0.0.2",
+        "@sentry/webpack-plugin": "^1.18.8",
         "eslint": "^6.8.0",
         "eslint-plugin-react": "^7.18.3",
         "eslint-plugin-react-hooks": "^2.5.0"

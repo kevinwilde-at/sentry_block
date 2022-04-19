@@ -1,6 +1,5 @@
 /node_modules
 /.airtableblocksrc.json
 /build
-.sentryclirc
 .vscode
 .tmp
