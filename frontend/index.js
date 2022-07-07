@@ -26,7 +26,7 @@ function HelloWorldApp() {
             <div>
                 <button
                     onClick={() => {
-                        throw new Error('test4')
+                        throw new Error('test')
                     }}
                 >
                     Throw error
